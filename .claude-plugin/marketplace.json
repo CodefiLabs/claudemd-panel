@@ -1,0 +1,5 @@
+{
+  "name": "claudemd-panel",
+  "owner": { "name": "CodefiLabs" },
+  "plugins": [{ "name": "claudemd-panel", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "claudemd-panel",
+  "version": "0.1.0",
+  "description": "A side panel to view, edit and review changes to ~/.claude/CLAUDE.md, with backups and Accept/Reject for Claude's proposals.",
+  "types": "./types/index.d.ts"
+}
